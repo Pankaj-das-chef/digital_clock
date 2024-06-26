@@ -1,0 +1,19 @@
+net "clk" loc="p181";
+net "f" loc="p44";
+net "r" loc="p42";
+net "reset" loc="p182";
+
+net "s0" loc="p144";
+net "s0" loc="p144";
+net "s0" loc="p144";
+net "s0" loc="p144";
+net "s0" loc="p144";
+net "s0" loc="p144";
+net "s0" loc="p144";
+
+net "dis0" loc="p97";
+net "dis1" loc="p100";
+net "dis2" loc="p101";
+net "dis3" loc="p102";
+net "dis4" loc="p132";
+net "dis5" loc="p133";
